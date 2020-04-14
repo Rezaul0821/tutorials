@@ -1,1 +1,1 @@
-This is a file to be edited.
+This is a file to be edited. Now directly adding in repo.
